@@ -2,7 +2,7 @@ git+https://github.com/pyrogram/pyrogram@master
 py-tgcalls==0.8.1
 parse-torrent-name
 TgCrypto
-git+https://github.com/yt-dlp/yt-dlp@master
+yt-dlp
 youtube-search-python==1.5.1
 httpx==0.14.2
 youtube-search
