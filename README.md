@@ -54,4 +54,41 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GzForeign/VCPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+## Features
+
+- Playlist, queue.
+- Zero downtime in playing.
+- Supports Video Recording.
+- Supports Scheduling voicechats.
+- Cool UI for controling the player.
+- Customizabe to audio or video.
+- Custom quality for video chats.
+- Supports Play from Youtube Playlist.
+- Change VoiceChat title to current playing song name.
+- Supports Live streaming from youtube
+- Play from telegram file supported.
+- Starts Radio after if no songs in playlist.
+- Automatic restart even if heroku restarts. (Configurable)
+- Support exporting and importing playlist.
+
+### Note
+
+[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
+
+Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
+Fork the repo and edit as per your needs.
+
+## LICENSE
+
+- [GNU General Public License](./LICENSE)
+
+
+## CREDITS
+
+- [subinps](https://github.com/subinps) owner this repo
+- [Laky-64](https://github.com/Laky-64) for [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
+- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+
