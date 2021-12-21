@@ -67,12 +67,12 @@
       },
       "STARTUP_STREAM": {
         "description": "YouTube live / Direct link to a video / Telegram link to a YouTube playlist.(Read the README for more info.) ",
-        "value": "https://youtu.be/uy541NdpbUE",
+        "value": "https://youtu.be/naxuww2yb5w",
         "required": false
       },
       "REPLY_MESSAGE": {
         "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
-        "value": "Hey, Iam a bot to play music, not having time to chat with you.",
+        "value": "Woi Kontol, Gua cuma asisten musik, gada waktu buat chat sama lu.",
         "required": false
       }
     },
